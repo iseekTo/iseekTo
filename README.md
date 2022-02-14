@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on GD
+- 📖 I'm a writer
 - 🌱 I’m currently learning graphql, nest, ux etc...
 - 📫 How to reach me: liyubo683@gmail.com
 - ⚡ Fun fact: ...
