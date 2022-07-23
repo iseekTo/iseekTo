@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on GD
+- 🔭 I’m currently working on Digital Currency
 - 📖 I'm a writer
-- 🌱 I’m currently learning graphql, nest, ux etc...
+- 🌱 Like React Framework.
 - 📫 How to reach me: liyubo683@gmail.com
 - ⚡ Fun fact: ...
 
