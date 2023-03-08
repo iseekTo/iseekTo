@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 Like React Framework.
 - 📫 How to reach me: liyubo683@gmail.com
 - 🔥 Web3 developer
-- ⚡ Fun fact: ...
+- ⚡ ...
 
 
 <!-- 统计github个人账户的star总数量等信息 -->
