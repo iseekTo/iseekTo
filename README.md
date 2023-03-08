@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 📖 I'm a writer
 - 🌱 Like React Framework.
 - 📫 How to reach me: liyubo683@gmail.com
+- 🔥 Web3 developer
 - ⚡ Fun fact: ...
 
 
