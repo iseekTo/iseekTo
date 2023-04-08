@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Digital Currency
-- 📖 I'm a writer
-- 🌱 Like React Framework.
+- 🔥 Web3 developer, writer
 - 📫 How to reach me: liyubo683@gmail.com
-- 🔥 Web3 developer
 - ⚡ ...
 
 
