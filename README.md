@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔥 Web3 developer, writer
 - 📫 How to reach me: liyubo683@gmail.com
-- 🤔 Recently, focusing aggregation mainstream evm chain wallets and BTC wallet(unisat)
+- 🤔 let me see...
 - ⚡ ...
 
 
